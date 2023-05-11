@@ -22,7 +22,7 @@ RSM-7FA, RSM-9FA, RSM-12FA, RS-7FC, RS-7UC, RS-9FA, RS-9UA, RS-12FC, RS-12UC, RS
 Hiyasu :
 HSM-12U, HSM-9U, HSM-7U
 
-### Use with ESP Home:
+### Use with ESPHome:
 ````
   - platform: template
     name: "SWING"
