@@ -1,12 +1,11 @@
 # Fujitsu IR AR-JE5
 ## Fujitsu  AR-JE5 Remote IR codes. (AEHA)
 
-<img src="https://github.com/migabit/Fujitsu_IR_AR-JE5/assets/81569439/0abcc83a-343b-4deb-9439-838390345557" width="30%" height="30%">
+<img src="https://github.com/migabit/Fujitsu_IR_AR-JE5/assets/81569439/85201082-e5d4-4ca9-a4aa-c910b5931572" width="30%" height="30%">
 
-Codes of the infrared remote to control the basic functions of Fujitsu air conditioners. <br>
-(Checked the operability for the ASY9USCCW model.) 
+**Codes of the infrared remote to control the basic functions of Fujitsu air conditioners.**
 
-These codes may also be suitable for other models and models of air conditioners from other manufacturers such as:
+These codes checked the operability for the ASY9USCCW model and may also be suitable for other models and models of air conditioners from other manufacturers such as:
 
 Fujitsu :
 ASY20F11, ASY25F11, ASY35F11, ASY20FM3, ASY25FM3, ASY35FM3, ASY9RSECW, ASY9RSEC-W, ASY12RSECW, ASY12RSEC-W,
@@ -30,5 +29,5 @@ HSM-12U, HSM-9U, HSM-7U
       remote_transmitter.transmit_aeha:
          address: 0x28C6
          data: [0x00,0x08,0x08,0xB6]
-````			 
+````
 
